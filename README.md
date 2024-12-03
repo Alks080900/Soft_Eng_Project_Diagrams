@@ -12,3 +12,5 @@ This Assignment focuses on creating and documenting the following diagrams as pa
 - Use Case Diagram
 - Project Context Diagram
 - User Story Map
+- Sequence Diagram
+- Class Diagram
